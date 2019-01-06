@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author pavel
+ *
+ */
+package word;
